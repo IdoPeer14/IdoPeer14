@@ -74,28 +74,12 @@ A production-grade trading platform I designed and built from scratch, currently
 
 ## 💼 Professional Background
 
-**IDF Tikshuv Corps** (2022-2025)  
-Sergeant, Commander & Instructor
-- Led ~350 soldiers across 10 training cycles
-- Managed 20-30 instructors across multiple teams
-- Improved training pass rates by 20%+
-- Zero critical failures under pressure
-
 **Freelance Web Development** (2021-2022)
 - Built client websites with Angular, JavaScript, and Wix
 - Improved site performance by 30-50%
 - Delivered responsive UI and SEO optimizations
 
 ---
-
-## 📊 GitHub Stats
-
-![Ido's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
----
-
 ## 🎓 Education
 
 **HAKLAI SCHOOL** (2019-2022)  
