@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ido Peer
 
-## 🚀 Junior Python Backend Developer | AI & Automation Engineering
+## 🚀 Junior Full-Stack & Python Backend Developer | AI-Driven Automation & Data Engineering
 
 I'm a Python developer specializing in **scalable backend systems**, **AI-driven automation**, and **data pipelines**. Currently building and running **PeerX** — a production-grade trading automation platform with real money on the line.
 
